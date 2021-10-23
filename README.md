@@ -16,7 +16,7 @@
 <a href="https://twitter.com/heysagnik">
   <img align="left" alt="Twitter" width="35px"  src="https://github.com/devgossips/devgossips/blob/main/twitter-48.png?raw=true" />
 </a>
-
+<img src="https://raw.githubusercontent.com/devgossips/devgossips/output/github-contribution-grid-snake.svg " />
 <br/>
 <h2>Hey   <img src="https://i.imgur.com/cl3EgAf.gif" width="40px"></h2>
 
