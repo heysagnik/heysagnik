@@ -41,7 +41,7 @@
 <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
+<img src="https://img.icons8.com/fluency/50/000000/github.png"/>
 </code> </p>
 
 
