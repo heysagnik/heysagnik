@@ -57,7 +57,10 @@
 - 💬 Ask me about ...
 - 📫 Say Hi to me : sahoosagnik1@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+## ⚡ Fun fact: 
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=blueberry)
+
 
 
 
