@@ -20,7 +20,7 @@
 <br/>
 <h2>Hey   <img src="https://i.imgur.com/cl3EgAf.gif" width="40px"></h2>
 
- <p>I'm Sagnik Sahoo , a Full Stack Developer 🚀 from India, currently, I'm a Class 11 Student 🧑‍♂️ , ❤️ only coding .</p><p> Beside's programming, I enjoy eating food and traveling.</p>
+ <p>I'm Sagnik Sahoo , a tech & opensource enthusiastic 🚀 from India, currently, I'm in 11th grade 🧑‍♂️ .I  ❤️ only coding .</p><p> Beside's programming, I also enjoy experimenting with new science-tech.</p>
 
 <img align="right" alt="coding" src="https://raw.githubusercontent.com/devgossips/devgossips/master/coding.gif" width="400" height="280" />
   
@@ -45,18 +45,18 @@
 </code> </p>
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy. Don't hesitate!</b> 😊</em>
 
 
-🚧 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [#Hactoberfest](https://github.com/topics/hacktoberfest '# Hactoberfest')
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 Say Hi to me : sahoosagnik1@gmail.com
-- 😄 Pronouns: He/Him
+
+- ### 🔭 I’m currently working on [#Hactoberfest](https://github.com/topics/hacktoberfest '# Hactoberfest')
+- ### 🌱 I’m currently learning ...
+- ### 👯 I’m looking to collaborate on ...
+- ### 🤔 I’m looking for help with ...
+- ### 💬 Ask me about ...
+- ### 📫 Say Hi to me : sahoosagnik1@gmail.com
+- ###😄 Pronouns: He/Him
 ## ⚡ Fun fact: 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=blueberry)
