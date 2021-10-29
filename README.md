@@ -56,7 +56,7 @@
 - ### 🤔 I’m looking for help with ...
 - ### 💬 Ask me about ...
 - ### 📫 Say Hi to me : sahoosagnik1@gmail.com
-- ###😄 Pronouns: He/Him
+- ### 😄 Pronouns: He/Him
 ## ⚡ Fun fact: 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=blueberry)
