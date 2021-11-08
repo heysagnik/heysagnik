@@ -1,3 +1,4 @@
+<img src="https://i.imgur.com/UpQP24T.png" />
 <a href="https://telegram.me/virtuonic">
   <img align="left" alt="Sagnik's Telegram" width="35px" src="https://github.com/devgossips/devgossips/blob/main/telegram-app-48.png?raw=true" />
 </a>
