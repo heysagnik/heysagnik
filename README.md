@@ -59,6 +59,12 @@
 - 📫 Say Hi to me : sahoosagnik1@gmail.com
 -  😄 Pronouns: He/Him
 
+### :pray: Please support me : 
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/heysagnik.svg?style=social&label=Follow%20%40heysagnik)](https://twitter.com/heysagnik)<b>  &  </b><a href = "https://www.buymeacoffee.com/devgossips"><img src ="https://cdn.buymeacoffee.com/buttons/default-red.png" width="100px" height="25px" style="border-radius:10px;"/></a>
+
+
+
+
 ### ⚡ Fun fact:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=blueberry)
