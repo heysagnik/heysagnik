@@ -1,29 +1,29 @@
 <img src="https://i.imgur.com/UpQP24T.png" />
-<a href="https://telegram.me/virtuonic">
-  <img align="left" alt="Sagnik's Telegram" width="35px" src="https://github.com/devgossips/devgossips/blob/main/telegram-app-48.png?raw=true" />
+<a href="https://telegram.me/heysagnik">
+  <img align="left" alt="Sagnik's Telegram" width="35px" src="https://github.com/heysagnik/heysagnik/blob/main/telegram-app-48.png?raw=true" />
 </a>
 <a href="https://www.instagram.com/heysagnik/">
-  <img align="left" alt="Sagnik's Instagram" width="35px"  src="https://github.com/devgossips/devgossips/blob/main/instagram-48.png?raw=true" />
+  <img align="left" alt="Sagnik's Instagram" width="35px"  src="https://github.com/heysagnik/heysagnik/blob/main/instagram-48.png?raw=true" />
 </a>
-<a href="https://github.com/devgossips/">
-  <img align="left" alt="Sagnik's GitHub" width="35px"  src="https://github.com/devgossips/devgossips/blob/main/github-48.png?raw=true" />
+<a href="https://github.com/heysagnik/">
+  <img align="left" alt="Sagnik's GitHub" width="35px"  src="https://github.com/heysagnik/heysagnik/blob/main/github-48.png?raw=true" />
 </a>
 <a href="#">
-  <img align="left" alt="Sagnik's Portfolio & Blog" width="35px"  src="https://github.com/devgossips/devgossips/blob/main/binoculars-48.png?raw=true" />
+  <img align="left" alt="Sagnik's Portfolio & Blog" width="35px"  src="https://github.com/heysagnik/heysagnik/blob/main/binoculars-48.png?raw=true" />
 </a>
 <a href="https://www.youtube.com/channel/UCOUa9hvd4sJWQWQRIQctbSg">
-  <img align="left" alt="Sagnik's YouTube" width="35px"  src="https://github.com/devgossips/devgossips/blob/main/youtube-48.png?raw=true" />
+  <img align="left" alt="Sagnik's YouTube" width="35px"  src="https://github.com/heysagnik/heysagnik/blob/main/youtube-48.png?raw=true" />
 </a>
 <a href="https://twitter.com/heysagnik">
-  <img align="left" alt="Twitter" width="35px"  src="https://github.com/devgossips/devgossips/blob/main/twitter-48.png?raw=true" />
+  <img align="left" alt="Twitter" width="35px"  src="https://github.com/heysagnik/heysagnik/blob/main/twitter-48.png?raw=true" />
 </a>
-<img src="https://raw.githubusercontent.com/devgossips/devgossips/output/github-contribution-grid-snake.svg " />
+<img src="https://raw.githubusercontent.com/heysagnik/heysagnik/output/github-contribution-grid-snake.svg " />
 <br/>
 <h2>Hey   <img src="https://i.imgur.com/cl3EgAf.gif" width="40px"></h2>
 
  <p>I'm Sagnik Sahoo , a tech & opensource enthusiastic 🚀 from India, currently, I'm in 11th grade 🧑‍♂️ .I  ❤️ only coding .</p><p> Beside's programming, I also enjoy experimenting with new science-tech.</p>
 
-<img align="right" alt="coding" src="https://raw.githubusercontent.com/devgossips/devgossips/master/coding.gif" width="400" height="280" />
+<img align="right" alt="coding" src="https://raw.githubusercontent.com/heysagnik/heysagnik/master/coding.gif" width="400" height="280" />
   
 
 
@@ -51,11 +51,10 @@
 
 
 
-- 🔭 I’m currently working on [#Hactoberfest](https://github.com/topics/hacktoberfest '# Hactoberfest')
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
--  💬 Ask me about ...
+- 🔭 I’m currently working on IntraZeal
+- 🌱 I’m currently learning everything
+- 👯 I’m looking to collaborate on my new side project.
+-  💬 Ask me about anything
 - 📫 Say Hi to me : sahoosagnik1@gmail.com
 -  😄 Pronouns: He/Him
 
