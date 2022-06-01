@@ -19,7 +19,7 @@
 </a>
 <img src="https://raw.githubusercontent.com/heysagnik/heysagnik/output/github-contribution-grid-snake.svg " />
 <br/>
-<h2>Hey   <img src="https://i.imgur.com/cl3EgAf.gif" width="40px"></h2>
+<h2>Hey 👋</h2>  
 
  <p>I'm Sagnik Sahoo , a tech & opensource enthusiastic 🚀 from India, currently, I'm in 11th grade 🧑‍♂️ .I  ❤️ only coding .</p><p> Beside's programming, I also enjoy experimenting with new science-tech.</p>
 
