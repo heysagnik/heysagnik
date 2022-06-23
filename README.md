@@ -1,1 +1,1 @@
-<img src="https://cdn.dribbble.com/users/4120194/screenshots/16107930/media/41bb0db799a2ecbab127de2f066ae17f.jpg"/>
+<img src="https://cdn.dribbble.com/userupload/2798544/file/original-b26149fc42c7fe4d5dd4fb50e322fc2b.jpg?compress=1&resize=1024x768"/>
